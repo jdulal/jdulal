@@ -21,7 +21,7 @@ I'm a software developer and technologist based in Kathmandu, Nepal, currently c
 
 ### 📊 GitHub Stats & Metrics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdulal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jagadishwor's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdulal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jagadishwar's GitHub Stats" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdulal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
